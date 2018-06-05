@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1fc2f31f-699c-4ee7-84e4-611f673ddf5c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/out/production/Daniel Gola/menu/buttons/Doom3Buttons/MenuD3Button.class" afterPath="$PROJECT_DIR$/out/production/Daniel Gola/menu/buttons/Doom3Buttons/MenuD3Button.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/Daniel Gola/resources/FINALnoSCENE2.mp4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Daniel Gola/resources/SCENE.mp4" afterPath="$PROJECT_DIR$/out/production/Daniel Gola/resources/SCENE.mp4" />
+      <change beforePath="$PROJECT_DIR$/out/production/Daniel Gola/resources/doom1.mp4" afterPath="$PROJECT_DIR$/out/production/Daniel Gola/resources/doom1.mp4" />
+      <change beforePath="$PROJECT_DIR$/out/production/Daniel Gola/resources/doom2016.mp4" afterPath="$PROJECT_DIR$/out/production/Daniel Gola/resources/doom2016.mp4" />
+      <change beforePath="$PROJECT_DIR$/out/production/Daniel Gola/resources/doom2016scene2.mp4" afterPath="$PROJECT_DIR$/out/production/Daniel Gola/resources/doom2016scene2.mp4" />
+      <change beforePath="$PROJECT_DIR$/out/production/Daniel Gola/resources/doom3.mp4" afterPath="$PROJECT_DIR$/out/production/Daniel Gola/resources/doom3.mp4" />
+      <change beforePath="$PROJECT_DIR$/out/production/Daniel Gola/resources/nextScene.mp4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Daniel Gola/todo.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/menu/buttons/Doom3Buttons/MenuD3Button.java" afterPath="$PROJECT_DIR$/src/menu/buttons/Doom3Buttons/MenuD3Button.java" />
+      <change beforePath="$PROJECT_DIR$/src/resources/FINALnoSCENE2.mp4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/SCENE.mp4" afterPath="$PROJECT_DIR$/src/resources/SCENE.mp4" />
+      <change beforePath="$PROJECT_DIR$/src/resources/doom1.mp4" afterPath="$PROJECT_DIR$/src/resources/doom1.mp4" />
+      <change beforePath="$PROJECT_DIR$/src/resources/doom2016.mp4" afterPath="$PROJECT_DIR$/src/resources/doom2016.mp4" />
+      <change beforePath="$PROJECT_DIR$/src/resources/doom2016scene2.mp4" afterPath="$PROJECT_DIR$/src/resources/doom2016scene2.mp4" />
+      <change beforePath="$PROJECT_DIR$/src/resources/doom3.mp4" afterPath="$PROJECT_DIR$/src/resources/doom3.mp4" />
+      <change beforePath="$PROJECT_DIR$/src/resources/nextScene.mp4" afterPath="" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="StartDoom3Button.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/menu/buttons/Doom3Buttons/StartDoom3Button.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MenuD3Button.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/menu/buttons/Doom3Buttons/MenuD3Button.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="14" column="58" lean-forward="false" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OptionsDoom3Button.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/menu/buttons/Doom3Buttons/OptionsDoom3Button.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>color</find>
+      <find>black</find>
+      <find>duratop</find>
+      <find>white</find>
+      <find>file</find>
+      <find>stackpane</find>
+      <find>mouseen</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/menu/buttons/MenuD2016Button.java" />
+        <option value="$PROJECT_DIR$/src/menu/buttons/MenuD1Button.java" />
+        <option value="$PROJECT_DIR$/src/components/Window.java" />
+        <option value="$PROJECT_DIR$/src/components/Label.java" />
+        <option value="$PROJECT_DIR$/src/engine/Initialize.java" />
+        <option value="$PROJECT_DIR$/src/menu/buttons/Doom2016Buttons/StartDoom2016Button.java" />
+        <option value="$PROJECT_DIR$/src/components/ButtonV2.java" />
+        <option value="$PROJECT_DIR$/src/menu/buttons/Doom2016Buttons/Image.java" />
+        <option value="$PROJECT_DIR$/src/menu/buttons/IntroSkipButton.java" />
+        <option value="$PROJECT_DIR$/src/menu/buttons/Doom2016Buttons/StartMultiPlayerButton.java" />
+        <option value="$PROJECT_DIR$/src/menu/buttons/Doom2016Buttons/CreateSnapMapButton.java" />
+        <option value="$PROJECT_DIR$/src/menu/buttons/Doom3Buttons/StartDoom3Button.java" />
+        <option value="$PROJECT_DIR$/src/menu/buttons/Doom3Buttons/BackDoom3Button.java" />
+        <option value="$PROJECT_DIR$/src/menu/buttons/Doom1Buttons/SinglePlayerDoom1Button.java" />
+        <option value="$PROJECT_DIR$/src/menu/buttons/Doom1Buttons/LeaderBoardsDoom1Button.java" />
+        <option value="$PROJECT_DIR$/src/menu/buttons/Doom1Buttons/HelpOptionsDoom1Button.java" />
+        <option value="$PROJECT_DIR$/src/menu/buttons/Doom1Buttons/BackDoom1Button.java" />
+        <option value="$PROJECT_DIR$/src/menu/buttons/Doom1Buttons/AchievmentsDoom1Button.java" />
+        <option value="$PROJECT_DIR$/src/menu/buttons/SelectGameButton.java" />
+        <option value="$PROJECT_DIR$/src/menu/buttons/Doom1Buttons/MultiPlayerDoom1Button.java" />
+        <option value="$PROJECT_DIR$/src/menu/buttons/Doom2016Buttons/seeMore.java" />
+        <option value="$PROJECT_DIR$/src/menu/buttons/Doom2016Buttons/StartCampaignButton.java" />
+        <option value="$PROJECT_DIR$/src/menu/movies/IntroMovie.java" />
+        <option value="$PROJECT_DIR$/src/menu/buttons/Doom1Buttons/MenuD1Button.java" />
+        <option value="$PROJECT_DIR$/src/menu/buttons/Doom2016Buttons/RankingsMultiplayerButton.java" />
+        <option value="$PROJECT_DIR$/src/menu/buttons/Doom2016Buttons/AchieviementMultiplayerButton.java" />
+        <option value="$PROJECT_DIR$/src/engine/Main.java" />
+        <option value="$PROJECT_DIR$/src/engine/Menu.java" />
+        <option value="$PROJECT_DIR$/src/components/Button.java" />
+        <option value="$PROJECT_DIR$/src/menu/buttons/Doom2016Buttons/MenuD2016Button.java" />
+        <option value="$PROJECT_DIR$/src/menu/buttons/Doom2016Buttons/BackDoom2016Button.java" />
+        <option value="$PROJECT_DIR$/src/menu/buttons/Doom2016Buttons/MultiPlayerDoom2016Button.java" />
+        <option value="$PROJECT_DIR$/src/menu/buttons/Doom2016Buttons/SnapMapButton.java" />
+        <option value="$PROJECT_DIR$/src/menu/buttons/Doom2016Buttons/CampaignButton.java" />
+        <option value="$PROJECT_DIR$/src/menu/buttons/Doom2016Buttons/Campaign/StartCampaignButton.java" />
+        <option value="$PROJECT_DIR$/src/menu/buttons/Doom2016Buttons/Campaign/seeMore.java" />
+        <option value="$PROJECT_DIR$/src/menu/buttons/Doom2016Buttons/Multiplayer/AchieviementMultiplayerButton.java" />
+        <option value="$PROJECT_DIR$/src/menu/buttons/Doom2016Buttons/Multiplayer/RankingsMultiplayerButton.java" />
+        <option value="$PROJECT_DIR$/src/menu/buttons/Doom2016Buttons/Multiplayer/StartMultiPlayerButton.java" />
+        <option value="$PROJECT_DIR$/src/menu/buttons/Doom2016Buttons/SnapMap/CreateSnapMapButton.java" />
+        <option value="$PROJECT_DIR$/src/menu/buttons/Doom2016Buttons/Campaign/CreditsButton.java" />
+        <option value="$PROJECT_DIR$/src/menu/buttons/Doom2016Buttons/SnapMap/SeeBestMapButton.java" />
+        <option value="$PROJECT_DIR$/src/menu/buttons/Doom2016Buttons/SnapMap/LoadSnapMapButton.java" />
+        <option value="$PROJECT_DIR$/src/menu/buttons/Doom2016Buttons/SnapMap/SnapMapButton.java" />
+        <option value="$PROJECT_DIR$/src/menu/buttons/Doom2016Buttons/Multiplayer/MultiPlayerDoom2016Button.java" />
+        <option value="$PROJECT_DIR$/src/menu/buttons/Doom2016Buttons/Campaign/CampaignButton.java" />
+        <option value="$PROJECT_DIR$/src/menu/buttons/Doom2016Buttons/StaticButtons.java" />
+        <option value="$PROJECT_DIR$/../GUISorterThreads/src/SelectFileChooserExample.java" />
+        <option value="$PROJECT_DIR$/src/todo.txt" />
+        <option value="$PROJECT_DIR$/src/menu/buttons/Doom3Buttons/OptionsDoom3Button.java" />
+        <option value="$PROJECT_DIR$/src/menu/buttons/Doom3Buttons/MenuD3Button.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="17" />
+    <option name="y" value="2" />
+    <option name="width" value="1285" />
+    <option name="height" value="579" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Abstraction issuesJava</id>
+          </State>
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Accessibility</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Performance</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Security</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Usability &gt; Icons</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Usability &gt; Typography</id>
+          </State>
+          <State>
+            <id>Android Lint for Kotlin</id>
+          </State>
+          <State>
+            <id>Ant inspections</id>
+          </State>
+          <State>
+            <id>Bitwise operation issuesJava</id>
+          </State>
+          <State>
+            <id>Class metricsJava</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>Concurrency annotation issuesJava</id>
+          </State>
+          <State>
+            <id>Control FlowGroovy</id>
+          </State>
+          <State>
+            <id>Control flow issuesJava</id>
+          </State>
+          <State>
+            <id>Declaration redundancyJava</id>
+          </State>
+          <State>
+            <id>Encapsulation issuesJava</id>
+          </State>
+          <State>
+            <id>Error handlingJava</id>
+          </State>
+          <State>
+            <id>GPath inspectionsGroovy</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Internationalization issuesJava</id>
+          </State>
+          <State>
+            <id>J2ME issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>JavaBeans issuesJava</id>
+          </State>
+          <State>
+            <id>JavaFX</id>
+          </State>
+          <State>
+            <id>Javadoc issuesJava</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>Logging issuesJava</id>
+          </State>
+          <State>
+            <id>Naming conventionsJava</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>Performance issuesJava</id>
+          </State>
+          <State>
+            <id>Portability issuesJava</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsGroovy</id>
+          </State>
+          <State>
+            <id>Probable bugsGroovy</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>Resource management issuesJava</id>
+          </State>
+          <State>
+            <id>Security issuesJava</id>
+          </State>
+          <State>
+            <id>Serialization issuesJava</id>
+          </State>
+          <State>
+            <id>StyleGroovy</id>
+          </State>
+          <State>
+            <id>Threading issuesGroovy</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+          <State>
+            <id>UI Form Problems</id>
+          </State>
+          <State>
+            <id>Visibility issuesJava</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+          <State>
+            <id>XSLT</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DoomApp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DoomApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DoomApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="engine" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DoomApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="menu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DoomApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="menu" type="462c0819:PsiDirectoryNode" />
+              <item name="buttons" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DoomApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="menu" type="462c0819:PsiDirectoryNode" />
+              <item name="buttons" type="462c0819:PsiDirectoryNode" />
+              <item name="Doom3Buttons" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jan kabat\Desktop\Wykonane projekty\Daniel Gola\StartGame\src\resources" />
+      <recent name="C:\Users\Jan kabat\Desktop\Wykonane projekty\Daniel Gola\StartGame\src\library" />
+      <recent name="C:\Users\Jan kabat\Desktop\Wykonane projekty\Daniel Gola\StartGame\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="menu.movies" />
+      <recent name="menu.buttons" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jan kabat\Desktop\Wykonane projekty\Daniel Gola\StartGame\src\resources" />
+      <recent name="C:\Users\Jan kabat\Desktop\Wykonane projekty\Daniel Gola\StartGame\src" />
+      <recent name="C:\Users\Jan kabat\Desktop\Wykonane projekty\Daniel Gola\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HEIGHT" value="0" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="WIDTH" value="0" />
+      <module />
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="engine.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Daniel Gola" />
+      <envs />
+      <RunnerSettings RunnerId="JProfiler">
+        <option name="WINDOW" value="false" />
+      </RunnerSettings>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="sample.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Daniel Gola" />
+      <envs />
+      <RunnerSettings RunnerId="JProfiler">
+        <option name="WINDOW" value="false" />
+      </RunnerSettings>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1fc2f31f-699c-4ee7-84e4-611f673ddf5c" name="Default" comment="" />
+      <created>1516169302315</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1516169302315</updated>
+      <workItem from="1516169305503" duration="139000" />
+      <workItem from="1516169546981" duration="1616000" />
+      <workItem from="1516186523588" duration="55000" />
+      <workItem from="1516258124821" duration="5453000" />
+      <workItem from="1516343972117" duration="10952000" />
+      <workItem from="1516443595197" duration="2620000" />
+      <workItem from="1516625946018" duration="2317000" />
+      <workItem from="1516739650110" duration="3020000" />
+      <workItem from="1485282069712" duration="1815000" />
+      <workItem from="1516824603119" duration="1989000" />
+      <workItem from="1516920487454" duration="42000" />
+      <workItem from="1422227460563" duration="578000" />
+      <workItem from="1422228356235" duration="3377000" />
+      <workItem from="1422226829922" duration="132000" />
+      <workItem from="1422227113234" duration="98000" />
+      <workItem from="1517580814686" duration="1366000" />
+      <workItem from="1517700009993" duration="1651000" />
+      <workItem from="1517952655206" duration="529000" />
+      <workItem from="1518090376312" duration="11093000" />
+      <workItem from="1518110922777" duration="2869000" />
+      <workItem from="1518170980442" duration="1214000" />
+      <workItem from="1518265947212" duration="902000" />
+      <workItem from="1518270821117" duration="5602000" />
+      <workItem from="1518286055851" duration="10009000" />
+      <workItem from="1518364320416" duration="2340000" />
+      <workItem from="1518367914242" duration="7079000" />
+      <workItem from="1518441075725" duration="4538000" />
+      <workItem from="1518551269890" duration="1059000" />
+      <workItem from="1518719387310" duration="1232000" />
+      <workItem from="1518721209797" duration="1626000" />
+      <workItem from="1518866659793" duration="3346000" />
+      <workItem from="1518898093149" duration="1226000" />
+      <workItem from="1518912236235" duration="2955000" />
+      <workItem from="1518915672622" duration="3752000" />
+      <workItem from="1518955258216" duration="3955000" />
+      <workItem from="1518960762262" duration="4999000" />
+      <workItem from="1518982811457" duration="990000" />
+      <workItem from="1519021837923" duration="65000" />
+      <workItem from="1519057766304" duration="1550000" />
+      <workItem from="1519169585160" duration="1476000" />
+      <workItem from="1519225074481" duration="14579000" />
+      <workItem from="1519292686305" duration="995000" />
+      <workItem from="1519302634322" duration="39937000" />
+      <workItem from="1519405299152" duration="1854000" />
+      <workItem from="1519409108073" duration="1446000" />
+      <workItem from="1519473980480" duration="1494000" />
+      <workItem from="1519475913022" duration="1152000" />
+      <workItem from="1519485280939" duration="2548000" />
+      <workItem from="1519757182308" duration="3110000" />
+      <workItem from="1519818517576" duration="132000" />
+      <workItem from="1519829048433" duration="8017000" />
+      <workItem from="1519858598764" duration="31000" />
+      <workItem from="1520160917653" duration="920000" />
+      <workItem from="1520170452872" duration="747000" />
+      <workItem from="1520261644726" duration="20000" />
+      <workItem from="1520278048828" duration="1067000" />
+      <workItem from="1520712794309" duration="205000" />
+      <workItem from="1520771755939" duration="608000" />
+      <workItem from="1522055214121" duration="75000" />
+      <workItem from="1522749725198" duration="30000" />
+      <workItem from="1524308606384" duration="5514000" />
+      <workItem from="1527676214301" duration="36000" />
+      <workItem from="1528051713978" duration="549000" />
+      <workItem from="1528065478010" duration="62000" />
+      <workItem from="1528131020219" duration="38000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="200637000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7811159" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14739583" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.667382" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/menu/buttons/MenuD1.java" />
+    <entry file="file://$PROJECT_DIR$/src/menu/buttons/MenuD2016.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/javafx.graphics/javafx/scene/layout/StackPane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="205" column="11" lean-forward="false" selection-start-line="205" selection-start-column="11" selection-end-line="205" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/menu/buttons/Doom2016Buttons/StartDoom2016Button.java" />
+    <entry file="file://$PROJECT_DIR$/src/menu/buttons/Doom2016Buttons/Image.java" />
+    <entry file="file://$PROJECT_DIR$/src/components/ButtonV2.java" />
+    <entry file="file://$PROJECT_DIR$/src/menu/buttons/Doom1Buttons/HelpOptionsDoom1Button.java" />
+    <entry file="file://$PROJECT_DIR$/src/menu/buttons/Doom1Buttons/LeaderBoardsDoom1Button.java" />
+    <entry file="file://$PROJECT_DIR$/src/menu/buttons/Doom1Buttons/MultiPlayerDoom1Button.java" />
+    <entry file="file://$PROJECT_DIR$/src/menu/buttons/Doom1Buttons/SinglePlayerDoom1Button.java" />
+    <entry file="file://$PROJECT_DIR$/src/menu/buttons/Doom3Buttons/BackDoom3Button.java" />
+    <entry file="file://$PROJECT_DIR$/src/menu/buttons/SelectGameButton.java" />
+    <entry file="file://$PROJECT_DIR$/src/menu/movies/IntroMovie.java" />
+    <entry file="file://$PROJECT_DIR$/src/menu/movies/MenuBackgroundMovie.java" />
+    <entry file="file://$PROJECT_DIR$/src/menu/movies/NextSceneMovieD3.java" />
+    <entry file="file://$PROJECT_DIR$/src/menu/buttons/Doom2016Buttons/AchievementDoom2016Button.java" />
+    <entry file="file://$PROJECT_DIR$/src/menu/buttons/Doom2016Buttons/Multiplayer/AchieviementMultiplayerButton.java" />
+    <entry file="file://$PROJECT_DIR$/src/menu/buttons/Doom2016Buttons/Campaign/seeMore.java" />
+    <entry file="file://$PROJECT_DIR$/src/menu/buttons/Doom2016Buttons/Campaign/CreditsButton.java" />
+    <entry file="file://$PROJECT_DIR$/src/menu/buttons/Doom2016Buttons/SnapMap/CreateSnapMapButton.java" />
+    <entry file="file://$PROJECT_DIR$/src/menu/buttons/Doom2016Buttons/SnapMap/SeeBestMapButton.java" />
+    <entry file="file://$PROJECT_DIR$/src/menu/buttons/Doom2016Buttons/SnapMap/LoadSnapMapButton.java" />
+    <entry file="file://$PROJECT_DIR$/src/menu/buttons/Doom2016Buttons/StaticButtons.java" />
+    <entry file="file://$PROJECT_DIR$/src/menu/buttons/Doom2016Buttons/Multiplayer/StartMultiPlayerButton.java" />
+    <entry file="file://$PROJECT_DIR$/src/menu/buttons/Doom2016Buttons/Multiplayer/RankingsMultiplayerButton.java" />
+    <entry file="file://$PROJECT_DIR$/src/menu/buttons/Doom2016Buttons/SnapMap/SnapMapButton.java" />
+    <entry file="file://$PROJECT_DIR$/src/menu/buttons/Doom2016Buttons/Multiplayer/MultiPlayerDoom2016Button.java" />
+    <entry file="file://$PROJECT_DIR$/src/menu/buttons/Doom2016Buttons/Campaign/StartCampaignButton.java" />
+    <entry file="file://$PROJECT_DIR$/src/library/Timer.java" />
+    <entry file="file://$PROJECT_DIR$/src/menu/buttons/Doom1Buttons/AchievmentsDoom1Button.java" />
+    <entry file="file://$PROJECT_DIR$/src/menu/buttons/Doom2016Buttons/Campaign/CampaignButton.java" />
+    <entry file="file://$PROJECT_DIR$/src/menu/buttons/Doom2016Buttons/BackDoom2016Button.java" />
+    <entry file="file://$PROJECT_DIR$/src/menu/buttons/Doom2016Buttons/MenuD2016Button.java" />
+    <entry file="file://$PROJECT_DIR$/src/components/Label.java" />
+    <entry file="file://$PROJECT_DIR$/src/components/Movie.java" />
+    <entry file="file://$PROJECT_DIR$/src/engine/Initialize.java" />
+    <entry file="file://$PROJECT_DIR$/src/library/Dc.java" />
+    <entry file="file://$PROJECT_DIR$/src/components/Button.java" />
+    <entry file="file://$PROJECT_DIR$/src/components/Window.java" />
+    <entry file="file://$PROJECT_DIR$/src/engine/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/resources/doom3menu.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/library/Library.java" />
+    <entry file="file://$PROJECT_DIR$/../GUISorterThreads/src/SelectFileChooserExample.java" />
+    <entry file="file://$PROJECT_DIR$/src/menu/buttons/Doom1Buttons/MenuD1Button.java" />
+    <entry file="file://$PROJECT_DIR$/src/menu/buttons/IntroSkipButton.java" />
+    <entry file="file://$PROJECT_DIR$/src/menu/buttons/Doom1Buttons/BackDoom1Button.java" />
+    <entry file="file://$PROJECT_DIR$/src/engine/Menu.java" />
+    <entry file="file://$PROJECT_DIR$/src/todo.txt" />
+    <entry file="file://$PROJECT_DIR$/src/menu/buttons/Doom3Buttons/StartDoom3Button.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/menu/buttons/Doom3Buttons/OptionsDoom3Button.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/menu/buttons/Doom3Buttons/MenuD3Button.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="14" column="58" lean-forward="false" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Jalapeno-CacheDB</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Daniel Gola</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>mysql-connector-java-5.1.40-bin</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
